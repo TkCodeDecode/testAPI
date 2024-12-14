@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Iphone 16 Pro Max",
+        "price": "150000",
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Iphone 16 Pro",
+        "price": "125000",
+        "rating": 4.7,
+        "company": "Apple"
+    },
+    {
+        "name": "Iphone 16",
+        "price": "90000",
+        "rating": 4.5,
+        "company": "Apple"
+    },
+    {
+        "name": "Samsung S24 Ultra",
+        "price": "150000",
+        "featured": true,
+        "rating": 4.9,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung S24",
+        "price": "130000",
+        "rating": 4.7,
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung S24 Lite",
+        "price": "75000",
+        "rating": 4.5,
+        "company": "Samsung"
+    },
+    {
+        "name": "One plus nord 11",
+        "price": "56000",
+        "featured": true,
+        "rating": 4.3,
+        "company": "One plus"
+    },
+    {
+        "name": "One plus nord 11 CE",
+        "price": "48000",
+        "rating": 4.0,
+        "company": "One plus"
+    },
+    {
+        "name": "Oppo Reno 11",
+        "price": "40000",
+        "featured": true,
+        "rating": 4.5,
+        "company": "Oppo"
+    },
+    {
+        "name": "Oppo F27 5G",
+        "price": "32000",
+        "rating": 4.2,
+        "company": "Oppo"
+    },
+    {
+        "name": "Realme Narzo 70",
+        "price": "18000",
+        "rating": 4.3,
+        "company": "Realme"
+    },
+    {
+        "name": "Realme 12 Pro 5G",
+        "featured": true,
+        "price": "21000",
+        "rating": 4.5,
+        "company": "Realme"
+    }
+]
