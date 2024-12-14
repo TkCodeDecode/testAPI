@@ -1,4 +1,1 @@
-cluster path and pass
-
-mongodb+srv://kurle776:ZbrIIpdHM95Urmwd@tk-cluster.upct3.mongodb.net/?retryWrites=true&w=majority&appName=TK-Cluster
-pass: ZbrIIpdHM95Urmwd
+This is a TestAPI site made using node and Express.js as server. And mongoDB Atlas as cloud-database.
